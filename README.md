@@ -10,4 +10,4 @@
 Угловой размер дуги a = π/2+ π/6 рад  
 Коэффициент трения µ = 0,02  
 ### График
-(Figure_1.png)
+![Figure_1](https://github.com/user-attachments/assets/188f82c2-e72e-477d-9b8c-9fa3153c6ba4)
