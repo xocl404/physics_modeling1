@@ -9,3 +9,5 @@
 Радиус кольца R = 5 м  
 Угловой размер дуги a = π/2+ π/6 рад  
 Коэффициент трения µ = 0,02  
+### График
+(https://github.com/xocl404/physics_modeling1/blob/main/Figure_1.png)
